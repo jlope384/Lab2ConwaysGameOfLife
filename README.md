@@ -24,5 +24,6 @@ git clone https://github.com/jlope384/Lab2ConwaysGameOfLife.git
 cd Lab2ConwaysGameOfLife
 cargo add raylib
 cargo run
+```
 
 ![Gif del juego](lab2.gif)
