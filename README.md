@@ -13,6 +13,7 @@ Después, el juego corre con las reglas normales:
 
 Es divertido ver cómo el patrón de primos evoluciona, porque no es algo que uno vea todo el tiempo en el juego.
 
+![Gif del juego](lab2.gif)
 ---
 
 ## Cómo correrlo
@@ -25,5 +26,3 @@ cd Lab2ConwaysGameOfLife
 cargo add raylib
 cargo run
 ```
-
-![Gif del juego](lab2.gif)
